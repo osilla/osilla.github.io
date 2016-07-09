@@ -1,2 +1,2 @@
 extends: site.yaml
-mode: production
+mode: development
